@@ -1,7 +1,7 @@
 # execute-me
 
 ## Description
-NodeJs and Typescript encripter and decripter tool. It makes uses of PKG library in order to create an executable to spawn a nodeJs child process to execute the decription in background.
+NodeJs and Typescript encrypter and decrypter tool. It makes uses of PKG library in order to create an executable to spawn a nodeJs child process to execute the decription in background.
 
 ## Installation
 
